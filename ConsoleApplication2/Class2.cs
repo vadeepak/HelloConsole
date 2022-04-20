@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         class ReplaceXWithYTask
         {
+            //In Class2 added 1 comment
             public static string ReplaceXWithY(string word)
             {
                 string[] words = word.Split(' ');
